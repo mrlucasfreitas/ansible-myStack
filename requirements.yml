@@ -1,6 +1,6 @@
 - src: git@github.com:mrlucasfreitas/ansible-role-testStrongswan.git
   scm: git
-  version: v1.0.0
+  version: v1.0.1
   name: strongswan
 
 - src: geerlingguy.mysql
