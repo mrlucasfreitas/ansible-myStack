@@ -1,0 +1,13 @@
+- src: git@github.com:mrlucasfreitas/ansible-role-testStrongswan.git
+  scm: git
+  version: v1.0.0
+  name: strongswan
+
+- src: geerlingguy.mysql
+  version: "3.3.0"
+  name: mysql
+
+- src: https://github.com/geerlingguy/ansible-role-apache.git
+  scm: git
+  version: "3.1.0"
+  name: apache
