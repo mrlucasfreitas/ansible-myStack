@@ -1,0 +1,2 @@
+strongswan_authby: "secret"
+strongswan_keyexchange: "ikev1"

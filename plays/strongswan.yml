@@ -1,0 +1,7 @@
+---
+  - name: Ipsec servers
+    hosts: ipsec
+
+    roles:
+      - role: strongswan
+        tags: strongswan
